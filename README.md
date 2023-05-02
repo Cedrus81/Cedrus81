@@ -14,6 +14,9 @@
 
 - 📫 How to reach me **Preferably Gmail: erez.eitan.97@gmail.com**
 
+<span>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cedrus81&show_icons=true&locale=en&layout=compact" alt="cedrus81" />            </span>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/erez eitan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erez eitan" height="30" width="40" /></a>
@@ -29,6 +32,5 @@
     
 </span>
 <span><img id="preview" src="https://leetcode.card.workers.dev/Cedrus81?theme=nord&amp;font=&amp;extension=activity"></span>
-    <span>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cedrus81&show_icons=true&locale=en&layout=compact" alt="cedrus81" />            </span>
+
                                                                                                                
