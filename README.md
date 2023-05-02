@@ -28,8 +28,7 @@
 
 <span>
     <span >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=cedrus81&show_icons=true&locale=en" alt="cedrus81" /></span>
-    <span><img align="right" position="relative" src="https://github-readme-streak-stats.herokuapp.com/?user=cedrus81&" alt="cedrus81" /></span>
-    
+    <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=cedrus81&" alt="cedrus81" /></span>
 </span>
 <span><img id="preview" src="https://leetcode.card.workers.dev/Cedrus81?theme=nord&amp;font=&amp;extension=activity"></span>
 
