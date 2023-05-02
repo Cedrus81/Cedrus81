@@ -25,7 +25,7 @@
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cedrus81&show_icons=true&locale=en" alt="cedrus81"     /></p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?             username=cedrus81&show_icons=true&locale=en&layout=compact" alt="cedrus81" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?       username=cedrus81&show_icons=true&locale=en&layout=compact" alt="cedrus81" /></p>
 
 <div align="right"><img id="preview" src="https://leetcode.card.workers.dev/Cedrus81?theme=nord&amp;font=&amp;extension=activity"></div>
 
